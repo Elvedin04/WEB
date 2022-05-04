@@ -1,0 +1,153 @@
+/*komenti 
+*/
+
+#page{
+
+	border:1px green solid;
+	width:1100px;
+	height:1800;
+	margin-right:auto;
+	margin-left:auto;
+	background-image: url('img/background.jpg');
+	
+		/*
+			
+			height :1000px;
+		*/
+}
+#header{
+	width:966px;
+	height:340px;
+	
+}
+#logo{
+	border:0px green solid;
+	width:290px;
+    margin:20px;
+	float:left;
+
+}
+#Sidebar{
+  
+    width:206px;
+    height:1120px;
+    background-color:rgb(255,254,254);
+    float:right;
+	margin-right:115px;
+	border-bottom:4px rgb(55,46,28) solid;
+	border-left: white;
+	border-right: 2px rgb(171,166,153) solid;
+
+}
+#content{
+	position:absolute;
+    margin-left:101px;
+	width:674;
+	height:1120px;
+	background-color:rgb(255,254,254);
+	border-bottom:4px rgb(55,46,28) solid;
+	border-left: 2px rgb(171,166,153) solid;
+	border-right: white;
+	
+}
+#Content_Image_1{
+    margin-top:80px;
+}
+#Content p #brown, span{
+    color:#000000;
+	font-weight:bold;
+	color:rgb(95,72,60);
+ }
+ #Content p #green, span{
+    color:#000000;
+	font-weight:bold;
+	color:rgb(48,125,52);
+ }
+ #Content p #link, span{
+	font-weight:bold;
+	color:rgb(48,125,52);
+ }
+ #Content p u{
+    color:rgb(48,125,53);
+	font-weight:bold;
+ }
+  #Content p #rm {
+    float:right;
+	margin-right:140px;
+  }
+   #Content p #rm u{
+     color: #FF4500; 	 
+   }
+   #Content_Image_2{
+    margin-top:160px;
+}
+#content h1{
+    position:absolute;
+    font-size: 30px;
+	font-weight:bold;
+	font-family: 'Times New Roman';
+	color:rgb(78,50,34);
+	margin-left:20px;
+}
+ #text-2 h1{
+    position:absolute;
+	color:#000000;
+	margin-top:568px;
+	font-family: 'Times New Roman';
+	color:rgb(78,50,34);
+}
+#footer{	
+	margin-top: 1093px;
+    margin-left:0px;
+	width:1100px;
+	height:366px;
+	background-color:rgb(83,70,42);
+}
+#Content_Image_2 p{
+    margin-top:60px;
+}
+
+/*Header css
+background-color:blue;
+border:1px green solid;
+	float:left;
+ */
+.heading{
+ 	font-style: normal;
+ 	font-size: 20px;
+ 	margin-top: 42px;
+ 	display: inline;
+ 	color:#fff;
+ 	font-family:"Times New Roman", Georgia, Serif;
+ 	padding-left: 180px;
+ }
+ #hd_text{
+ 	float: right;
+ 	margin-top:90px;
+ 	margin-right: 240px;
+ }
+ #Footer p{
+ 	position: absolute;
+ 	color:#fff;
+ }
+ #Footer ul {
+ 	position: absolute;
+ 	margin-left: 420px;
+ 	margin-top: -4px;
+ }
+  #Footer ul li{
+  	text-decoration: none;
+  	color:#fff;
+  	padding-top: 20px;
+  }
+  #Footer hr{
+  	position: absolute;
+  	width: 346px;
+  }
+  #Background{
+  width:1100;
+  height:40px;
+  background-color:rgb(90,50,39);
+ 
+  }
+
